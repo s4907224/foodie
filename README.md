@@ -1,1 +1,1 @@
-foodie
+# foodie is a simple meal planning app

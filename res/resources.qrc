@@ -1,13 +1,11 @@
 <RCC>
     <qresource prefix="/fonts">
-        <file>D-DIN-Bold.ttf</file>
         <file>D-DIN.ttf</file>
         <file>C800.ttf</file>
     </qresource>
     <qresource prefix="/icons">
         <file>fudie_logo.png</file>
         <file>fudie_logo_64.png</file>
-        <file>fudie_logo_128.png</file>
         <file>fudie_logo.icns</file>
     </qresource>
 </RCC>

@@ -1,1 +1,1 @@
-# foodie is a simple meal planning app
+# fudie is a simple meal planning app
